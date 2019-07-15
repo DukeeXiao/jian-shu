@@ -1,0 +1,112 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "读书",
+      "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 2,
+      "title": "摄影",
+      "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 3,
+      "title": "故事",
+      "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 4,
+      "title": "手绘",
+      "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 5,
+      "title": "@IT-互联网",
+      "imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 6,
+      "title": "旅行-在路上",
+      "imgUrl": "//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 7,
+      "title": "简书电影",
+      "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "早起背后的一张表",
+      "desc": "老李家门响了，是村头老黄家的闺女，她举着手里的袋子说:李叔叔，送您只鞋。 老李接过说:谢谢你啊姑娘。 姑娘摇摇头:我应该感谢您，让我爸又振作起来...",
+      "author": "广礼思索",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8717551-d436ce17e20673c9.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "早起背后的一张表",
+      "desc": "老李家门响了，是村头老黄家的闺女，她举着手里的袋子说:李叔叔，送您只鞋。 老李接过说:谢谢你啊姑娘。 姑娘摇摇头:我应该感谢您，让我爸又振作起来...",
+      "author": "广礼思索",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8717551-d436ce17e20673c9.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },
+    {
+      "id": 3,
+      "title": "早起背后的一张表",
+      "desc": "老李家门响了，是村头老黄家的闺女，她举着手里的袋子说:李叔叔，送您只鞋。 老李接过说:谢谢你啊姑娘。 姑娘摇摇头:我应该感谢您，让我爸又振作起来...",
+      "author": "广礼思索",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8717551-d436ce17e20673c9.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    },{
+      "id": 2,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id": 3,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 4,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }],
+    "bannerList": [{
+      "id": 1,
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4539/814816838070065013af51fac80e6a03e453a660.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 2,
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4524/65fb6e8f81ccbbc7dacf5c380e0366a003ba7881.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 3,
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4537/e4fc8843fabbf17e6f5660eea8ce0661b00b3089.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 4,
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4526/73a226693f83ee2920d31207c881b7c6eeb46761.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    },{
+      "id": 5,
+      "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4531/a71b88d43f0d0a32d6790d43d68b1a4b19264a8f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+    }],
+    "writerList": [{
+      "id": 1,
+      "imgUrl": "//upload.jianshu.io/users/upload_avatars/12665193/828a449f-efbb-4540-b0af-f6c314810515.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "author": "宇文欢",
+      "detail": "写了159.9k字 · 1.4k喜欢"
+    },{
+      "id": 2,
+      "imgUrl": "//upload.jianshu.io/users/upload_avatars/3884693/b425c707-d998-46a6-98b1-9b1e241513c3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "author": "柯南",
+      "detail": "写了179k字 · 1k喜欢"
+    },{
+      "id": 3,
+      "imgUrl": "//upload.jianshu.io/users/upload_avatars/3343569/3cd46650-54bc-4383-989f-80aacb0c42fe.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "author": "新一",
+      "detail": "写了679.3k字 · 16k喜欢"
+    },{
+      "id": 4,
+      "imgUrl": "//upload.jianshu.io/users/upload_avatars/10849033/a3e12f47-c81c-4659-9c80-117f8b337408.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "author": "吕布",
+      "detail": "写了380.9k字 · 2.9k喜欢"
+    },{
+      "id": 5,
+      "imgUrl": "//upload.jianshu.io/users/upload_avatars/3730494/4a86a2a7-d5b9-47f1-969a-d8ef4711488b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "author": "翔子",
+      "detail": "写了459.9k字 · 1.8k喜欢"
+    }]
+  }
+}
